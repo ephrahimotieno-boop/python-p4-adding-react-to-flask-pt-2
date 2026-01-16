@@ -1,0 +1,8 @@
+- [x] Install Python dependencies with pipenv (used pip instead)
+- [ ] Create React application in client/ directory (running)
+- [ ] Update client/package.json with proxy and port configuration
+- [x] Create server/app.py with Flask application and database setup
+- [x] Run flask db upgrade to apply migrations
+- [x] Run python seed.py to populate database
+- [ ] Update client/src/App.js to fetch movies from API
+- [ ] Test the application by running both servers
